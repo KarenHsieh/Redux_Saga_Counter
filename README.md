@@ -1,2 +1,2 @@
-# Redux_Saga_Counter
+# Redux_Counter
 Created with CodeSandbox
